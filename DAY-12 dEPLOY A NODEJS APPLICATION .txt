@@ -27,6 +27,7 @@ SECRET_KEY="sk_test_51OtrMjSI3sKhOFws6Wn1QZZv0i2JcvuzWfntQ6EZ1qHesOtlx4aqQNSpb6J
 ++++++++++++++++++++++++++++++++++++++++
 
 14. npm install
+15. npm install express
 15. npm run start
 16. Edit the Inbound rule and allow port 3000
 17. Browse Public IP and port 3000.
